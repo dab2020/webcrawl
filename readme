@@ -1,1 +1,2 @@
 work
+wget -k -K  -E -r -l 10 -p -N -F --restrict-file-names=windows -nH https://isupplypk.com/
